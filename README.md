@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋</h3>
 
 - 🔭 I’m currently working on IoT and logistics automation
-- 🌱 I’m currently learning Javascript, C++ and C#
+- 🌱 Learning and using Javascript, C# and Kotlin recently
 - 💻 4 years for software engineer and 3 years for team leader
 - 📫 misakuo@apache.org
 
